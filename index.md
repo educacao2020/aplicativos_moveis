@@ -30,9 +30,6 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link]() and ![Image](https://1.bp.blogspot.com/-B08biINqybI/XppQW9eRk-I/AAAAAAAACNY/IKSCH-zhZZcoxh9Qh0_wgcIP1JqjFjEOACLcBGAsYHQ/s320/icone.png)
-
-
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
