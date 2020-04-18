@@ -53,8 +53,7 @@ Estamos trabalhando também [numa Plataforma](https://sites.google.com/view/port
 						 <a class="pr-3" href="#"><img alt="Bootstrap Media Another Preview" src="https://www.layoutit.com/img/sports-q-c-64-64-2.jpg" /></a>
 						<div class="media-body">
 							<h5 class="mt-0">
-								Nested media heading
-							</h5> Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis.
+								
 						</div>
 					</div>
 				</div>
