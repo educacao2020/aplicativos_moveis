@@ -20,6 +20,8 @@ Estamos trabalhando também [numa Plataforma](https://sites.google.com/view/port
 	</div>
 </div>
 
+<marquee></marquee>
+
 <div class="container-fluid">
 	<div class="row">
 		<div class="col-md-12">
