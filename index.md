@@ -2,6 +2,14 @@
 
 Estamos trabalhando também [numa Plataforma](https://sites.google.com/view/portaldigitalescola/in%C3%ADcio) para atender às demandas da educação a distância no período de quarentena do Coronavírus e depois.
 
+<div class="container-fluid">
+	<div class="row">
+		<div class="col-md-12">
+			 <a href="#" class="btn btn-primary btn-md active" type="button">Button</a>
+		</div>
+	</div>
+</div>
+
 
 <div class="container-fluid">
 	<div class="row">
