@@ -63,6 +63,6 @@ Estamos trabalhando também [numa Plataforma](https://sites.google.com/view/port
 	</div>
 </div>
 
-### Contact
+### Contato
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeLcGavLDzmwaKfxSo_7kTtzEHm9T3p4E-GMwOIMLzGJT-gCw/viewform?embedded=true" width="640" height="678" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
