@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <div class="container-fluid">
 	<div class="row">
 		<div class="col-md-12">
-			<img alt="Bootstrap Image Preview" src="https://www.layoutit.com/img/sports-q-c-140-140-3.jpg" />
+			<img alt="Bootstrap Image Preview" src="https://1.bp.blogspot.com/-B08biINqybI/XppQW9eRk-I/AAAAAAAACNY/IKSCH-zhZZcoxh9Qh0_wgcIP1JqjFjEOACLcBGAsYHQ/s200/icone.png" class="rounded-circle" />
 		</div>
 	</div>
 </div>
