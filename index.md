@@ -55,12 +55,6 @@ Estamos trabalhando também [numa Plataforma](https://sites.google.com/view/port
 							<h5 class="mt-0">
 								
 						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
 
 ### Contato
 
