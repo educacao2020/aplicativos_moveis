@@ -5,6 +5,13 @@ Estamos trabalhando também [numa Plataforma](https://sites.google.com/view/port
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
+<div class="container-fluid">
+	<div class="row">
+		<div class="col-md-12">
+			<img alt="Bootstrap Image Preview" src="https://www.layoutit.com/img/sports-q-c-140-140-3.jpg" />
+		</div>
+	</div>
+</div>
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -24,7 +31,6 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link]() and ![Image](https://1.bp.blogspot.com/-B08biINqybI/XppQW9eRk-I/AAAAAAAACNY/IKSCH-zhZZcoxh9Qh0_wgcIP1JqjFjEOACLcBGAsYHQ/s320/icone.png)
-[Link]() and ![Image]()
 
 
 
